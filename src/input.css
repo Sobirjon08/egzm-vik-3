@@ -1,5 +1,7 @@
 @import "tailwindcss";
 @source "index.html";
+@source "Career.html";
+@source "services.html";
 @layer utilities {
   .no-scrollbar::-webkit-scrollbar {
     display: none;
